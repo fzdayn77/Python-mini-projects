@@ -5,7 +5,7 @@ from pprint import PrettyPrinter
 # Note that the free KEY expires after 3-5 working days and is only used for testing purposes
 # website:  https://free.currencyconverterapi.com/
 BASE_URL = "https://free.currconv.com/"
-API_KEY = ""
+API_KEY = "XXXXXXXXXXXX"  # KEY
 
 printer = PrettyPrinter()
 
